@@ -1,7 +1,0 @@
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\bin\Debug\Arraylist islemleri.exe.config
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\bin\Debug\Arraylist islemleri.exe
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\bin\Debug\Arraylist islemleri.pdb
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\obj\Debug\Arraylist islemleri.csprojAssemblyReference.cache
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\obj\Debug\Arraylist islemleri.csproj.CoreCompileInputs.cache
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\obj\Debug\Arraylist islemleri.exe
-C:\Users\abdul\Desktop\Projelerim\C#\Arraylist islemleri\Arraylist islemleri\obj\Debug\Arraylist islemleri.pdb
