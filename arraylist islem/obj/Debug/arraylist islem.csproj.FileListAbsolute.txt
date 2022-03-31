@@ -1,0 +1,7 @@
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\obj\Debug\arraylist islem.csprojAssemblyReference.cache
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\obj\Debug\arraylist islem.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\bin\Debug\arraylist islem.exe.config
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\bin\Debug\arraylist islem.exe
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\bin\Debug\arraylist islem.pdb
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\obj\Debug\arraylist islem.exe
+C:\Users\abdul\Desktop\Projelerim\C#\arraylist islem\arraylist islem\obj\Debug\arraylist islem.pdb
